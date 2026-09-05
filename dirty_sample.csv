@@ -1,0 +1,6 @@
+client_ref,full_name,contact_email,phone_number,transaction_amount,timestamp
+REF-1001, John Doe ,john.doe@example.com,(843) 555-0143,$1,250.00,2026-09-01T14:32:00Z
+REF-1002,SARAH CONNOR,sarah@skynet.org,843-555-0199,450.50,2026-09-01 15:45:00
+REF-1003, Bob Vance,invalid-email-address,555-0182,$89.99,2026-09-02T09:12:00Z
+REF-1004,Alice Smith,alice@acme.com,18435550122,,2026-09-02T11:00:00Z
+REF-1005,Unknown User,unknown@corp.com,NOT-A-PHONE,$3,400.00,bad-date-format
